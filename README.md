@@ -53,4 +53,15 @@ Welcome to my curated collection of **Google Colab notebooks** documenting my jo
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/WebberTiwari/ML_Learning.git
+
+ 2. Open the `.ipynb` files in Google Colab or Jupyter Notebook to explore concepts interactively.
+
+3. Follow the files in the recommended sequence for a structured learning experience (from basic to advanced).
+
+---
+
+**Author**  
+Priyanshu Tiwari  
+B.Tech Electrical Engineering, NIT Silchar  
+
